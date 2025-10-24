@@ -1,5 +1,5 @@
-#mDM = 100 GeV
-#sigmav = 3.433e-25 cm^3/s
+#mDM = 100 GeV,
+#sigmav = 3.433e-25 cm^3/s,
 #source_name, p_DM
 4FGL J0243.1-4218, 0.398
 4FGL J1519.7+6727, 0.382
