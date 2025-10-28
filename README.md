@@ -1,5 +1,5 @@
 # 2503.14584-data
-[![DOI](https://zenodo.org/badge/1082591123.svg)](https://doi.org/10.5281/zenodo.17463823)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17463824.svg)](https://doi.org/10.5281/zenodo.17463824)
 
 This repository contains complementary data for the paper: "Search for dark matter subhalos among unassociated Fermi-LAT sources in presence of dataset shift", [arXiv:2503.14584](https://arxiv.org/abs/2503.14584).
 
